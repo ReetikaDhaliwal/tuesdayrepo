@@ -1,2 +1,0 @@
-the calculator should to easy to use.
-it must satisfy all the requirements.
