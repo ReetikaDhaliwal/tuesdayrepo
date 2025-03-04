@@ -1,0 +1,2 @@
+Make a simple calculator that satisfies the requirements required .
+It must be easy to use.
